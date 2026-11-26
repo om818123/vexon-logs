@@ -1,0 +1,16 @@
+
+{
+  "name": "vexon-logs",
+  "version": "1.0.0",
+  "description": "Tek dosyalık Türkçe Discord log botu",
+  "main": "vexon-logs.js",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node vexon-logs.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
